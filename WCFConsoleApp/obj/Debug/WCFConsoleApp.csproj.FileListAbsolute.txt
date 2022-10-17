@@ -1,0 +1,12 @@
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\bin\Debug\WCFConsoleApp.exe.config
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\bin\Debug\WCFConsoleApp.exe
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\bin\Debug\WCFConsoleApp.pdb
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\obj\Debug\WCFConsoleApp.csproj.AssemblyReference.cache
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\obj\Debug\WCFConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\obj\Debug\WCFConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\obj\Debug\WCFConsoleApp.exe
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\obj\Debug\WCFConsoleApp.pdb
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\bin\Debug\WCFA1NikitaMyshuniaiev.dll
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\bin\Debug\WCFA1NikitaMyshuniaiev.pdb
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\bin\Debug\WCFA1NikitaMyshuniaiev.dll.config
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFConsoleApp\obj\Debug\WCFConsoleApp.csproj.CopyComplete

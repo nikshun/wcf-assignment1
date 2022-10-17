@@ -1,0 +1,7 @@
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\obj\Debug\WCFA1NikitaMyshuniaiev.csproj.AssemblyReference.cache
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\obj\Debug\WCFA1NikitaMyshuniaiev.csproj.CoreCompileInputs.cache
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\bin\WCFA1NikitaMyshuniaiev.dll.config
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\bin\WCFA1NikitaMyshuniaiev.dll
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\bin\WCFA1NikitaMyshuniaiev.pdb
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\obj\Debug\WCFA1NikitaMyshuniaiev.dll
+C:\Users\nmysh\Desktop\wcf-assignment1\WCFA1NikitaMyshuniaiev\obj\Debug\WCFA1NikitaMyshuniaiev.pdb
